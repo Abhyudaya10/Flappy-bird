@@ -3,7 +3,8 @@
  False,
  False,
  False,
- 'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-windowed.ico',
+ 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Pyhton '
+ 'Projects\\Python\\Flappy.py\\bluebird-downflap.ico',
  None,
  False,
  False,
@@ -447,7 +448,7 @@
  [],
  False,
  False,
- 1665215859,
+ 1665217398,
  [('runw.exe',
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\runw.exe',
    'EXECUTABLE')])
